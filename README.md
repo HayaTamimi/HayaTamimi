@@ -1,10 +1,10 @@
 ### Hello ✨
 
-I am a passionate self-taught female programmer, intersted in tech world, languages and literatures. 
+I am a passionate self-taught female programmer, interested in the tech world, languages and literatures. 
 
 ## 💖 About Me
 
-- I'm currently trying to improve myself in the Frontend development.
+- I'm currently trying to improve myself in Frontend development.
 - I plan to study Backend development next.
 - Currently studying Python.
-- Self-studing CS 
+- Self-studying CS 
