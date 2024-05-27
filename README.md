@@ -7,4 +7,5 @@ I am a passionate self-taught female programmer, interested in the tech world, l
 - I'm currently trying to improve myself in Frontend development.
 - I plan to study Backend development next.
 - Currently studying Python.
-- Self-studying CS 
+- Self-studying CS.
+- Learning Japanese 🇯🇵
