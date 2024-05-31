@@ -1,6 +1,6 @@
 ### Hello ✨
 
-I am a passionate self-taught female programmer, interested in the tech world, languages and literatures. 
+I am a passionate self-taught female developer, interested in the tech world, languages and literatures. 
 
 ## 💖 About Me
 
