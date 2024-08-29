@@ -4,8 +4,7 @@ I am a passionate female developer, interested in the tech world, languages and 
 
 ## 💖 About Me
 
-- I'm currently trying to improve myself in Frontend development.
-- I plan to study Backend development next.
-- Currently studying Python.
+- Frontend Developer.
+- Currently studying Python & C#
 - Self-studying CS.
 - Learning Japanese 🇯🇵
